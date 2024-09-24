@@ -1,0 +1,3 @@
+2024-09-25 04:14:08 [INFO] Loaded website: https://timesofindia.indiatimes.com/topic/hyderabad-drug-arrest/news
+2024-09-25 04:14:48 [INFO] No more "Load More Articles" button found, stopping scroll
+2024-09-25 04:14:49 [INFO] Scraping complete. Data saved to "timesofindia.csv".
